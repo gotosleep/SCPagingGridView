@@ -84,7 +84,7 @@ A class that recycles views. It is similar to UITableView's reusable cells syste
 Usage
 ---
 
-To use SCPagingGridView, add the ``` source/ ``` files into your XCode Project. The preferred method is to setup a git submodule and reference the files in your Xcode project. ` git submodule add https://github.com/scribd/SCPagingGridView.git SCPagingGridView `
+To use SCPagingGridView, add the ``` source/ ``` files into your Xcode Project. The preferred method is to setup a git submodule and reference the files in your Xcode project. ` git submodule add https://github.com/scribd/SCPagingGridView.git SCPagingGridView `
 
 Requirements
 ---
